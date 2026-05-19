@@ -37,11 +37,11 @@
 
 <div align="center">
 
-  ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshipatel09765-cmyk&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Sakshi's GitHub Stats](https://github-stats.vercel.app/api?username=sakshipatel09765-cmyk&theme=radical)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatel09765-cmyk&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sakshipatel09765-cmyk&layout=compact&theme=radical&hide_border=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipatel09765-cmyk&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipatel09765-cmyk&theme=radical&hide_border=true)
 
 </div>
 
