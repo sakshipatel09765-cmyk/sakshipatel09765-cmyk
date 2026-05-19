@@ -39,8 +39,6 @@
 
 ![Sakshi's GitHub Stats](https://github-stats.vercel.app/api?username=sakshipatel09765-cmyk&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sakshipatel09765-cmyk&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipatel09765-cmyk&theme=radical&hide_border=true)
 
 </div>
