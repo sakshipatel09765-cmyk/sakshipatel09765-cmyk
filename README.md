@@ -1,5 +1,3 @@
-# README.md
-
 <!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Sakshi%20Patel%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
