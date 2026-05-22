@@ -1,3 +1,5 @@
+# README.md
+
 <!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Sakshi%20Patel%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
@@ -17,6 +19,10 @@
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center">
+  <img align="right" src="https://raw.githubusercontent.com/sakshipatel09765-cmyk/sakshipatel09765-cmyk/main/coder-girl.svg" width="320" alt="Anime Coder Girl"/>
+</div>
+
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -31,6 +37,8 @@
 ![DBMS](https://img.shields.io/badge/DBMS-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)
 ![Gen AI](https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white)
 
+<br clear="right"/>
+
 ---
 
 ## 📊 GitHub Stats
@@ -38,7 +46,6 @@
 <div align="center">
 
 ![Sakshi's GitHub Stats](https://github-stats.vercel.app/api?username=sakshipatel09765-cmyk&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipatel09765-cmyk&theme=radical&hide_border=true)
 
 </div>
